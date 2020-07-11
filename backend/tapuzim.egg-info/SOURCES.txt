@@ -1,0 +1,8 @@
+setup.py
+tapuzim/__init__.py
+tapuzim/server.py
+tapuzim.egg-info/PKG-INFO
+tapuzim.egg-info/SOURCES.txt
+tapuzim.egg-info/dependency_links.txt
+tapuzim.egg-info/requires.txt
+tapuzim.egg-info/top_level.txt
